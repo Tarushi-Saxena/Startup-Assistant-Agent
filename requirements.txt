@@ -1,0 +1,6 @@
+streamlit
+crewai
+crewai[tools]
+google-generativeai
+httpx>=0.28.1,<1.0.0
+pydantic
