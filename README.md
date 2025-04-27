@@ -89,12 +89,6 @@ The app will automatically open in your default browser at `http://localhost:850
 
 ---
 
-## 📸 Screenshots
-
-> _(Add screenshots or a demo GIF here for better visual impact!)_
-
----
-
 ## 📂 Project Structure
 
 ```bash
