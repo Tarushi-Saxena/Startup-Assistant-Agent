@@ -1,6 +1,6 @@
 streamlit
 crewai==0.17.2
-crewai[tools]
 google-generativeai
 httpx>=0.28.1,<1.0.0
 pydantic
+rich==13.9.4
