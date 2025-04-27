@@ -73,8 +73,8 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 
 ```env
-GEMINI_API_KEY=your-gemini-api-key
-SERPER_API_KEY=your-serper-api-key
+GEMINI_API_KEY="AIzaSyAKe3fdi3uTIcsciS0hoaPB3KkuhnthACY"
+SERPER_API_KEY="8d602abe0f5ebb126d553632d467ef66c73b318f"
 ```
 
 _(**Important:** Do not share your API keys publicly.)_
